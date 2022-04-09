@@ -1,6 +1,6 @@
 # Attendance Android App
 
-<a href="url"><img src="https://github.com/rajatupadhyay9/Attendance-Android-App/blob/master/a%5B1%5D.jpg" align="center" height="1000" width="400" ></a>
+<a href="url"><img src="https://github.com/rajatupadhyay9/Attendance-Android-App/blob/master/a%5B1%5D.jpg" align="right" height="800" width="400" ></a>
 
 This app is used to take offline attendance in class.
 You can create a class code.
